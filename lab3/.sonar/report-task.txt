@@ -1,0 +1,5 @@
+projectKey=lab3
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/lab3
+ceTaskId=AXDC5JuUOZuXNeErKEbt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXDC5JuUOZuXNeErKEbt
